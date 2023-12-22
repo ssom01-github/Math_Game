@@ -19,3 +19,7 @@ git clonehttps://github.com/ssom01-github/Math_Game.git
 
 
 cd Math-Game
+
+![Screenshot (150)](https://github.com/ssom01-github/Math_Game/assets/119428834/5f14d85b-04f6-42f5-8dfb-99fb5c05d327)
+
+
