@@ -15,5 +15,7 @@
 
   ### Getting Started
 Clone the repository to your local machine and open the index.html file in your web browser.
-git clone https://github.com/your-username/math-game.git
+git clonehttps://github.com/ssom01-github/Math_Game.git
+
+
 cd Math-Game
